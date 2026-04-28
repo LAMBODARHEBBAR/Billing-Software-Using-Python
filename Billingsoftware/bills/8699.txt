@@ -1,0 +1,15 @@
+	 Welcome to Mini Mall
+ Bill Number:8699
+ Customer Name:John
+ Phone Number:1234
+ Customer Email:abcd@gmail.com
+=====================================
+ Products	QTY		Price
+=====================================
+ Levis		2		10000
+
+=====================================
+ Sub Amount:			Rs.10000.00
+ Tax Amount:			Rs.50.00
+ Total amount:			Rs.10050.00
+=====================================
